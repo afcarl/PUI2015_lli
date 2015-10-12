@@ -1,4 +1,4 @@
-# Citibike
+# Citibike Weekend (HW3 Project)
 
 ###Process
 
@@ -23,3 +23,9 @@ Carlyle and Michael focused on distance calculations, while Linda and Rachel wor
 ###Instructions to run notebook
 
 No additional installations are needed to run our notebook. Packages are all common python packages and are imported in our notebook.
+
+# Citibike KS distribution test and correlation test (Pearson, Spearman)
+
+###Instructions to run notebook
+
+Need to install packages to be able to run 'import requests, zipfile, StringIO'
